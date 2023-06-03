@@ -2,8 +2,35 @@
 
 I'm Geane!
 
-- 🔭 I’m currently studying Front-End Development at Laboratória Brasil Bootcamp;
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Git, GitHub, UI Design, Nodejs and Jest;
-- 📫 How to reach me: geaneramos1995@gmail.com;
-- 😄 Pronouns: She/Her.
+- 🧑‍🎓 I hold a Bachelor's degree in Business Administration;
+- 💻 I’m currently studying Front-End Web Development at Laboratória Brasil Bootcamp.
+##
 
+I'm currently learning:
+
+<div style="display: inline_block"><br>
+   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+  <img src="https://skillicons.dev/icons?i=js"/>
+  <a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <a href="https://jestjs.io/pt-BR/">
+  <img src="https://skillicons.dev/icons?i=jest"/>
+   <a href="https://nodejs.org/en">
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+</div>
+  
+##
+Reach me:
+
+<a href = "mailto:geaneramos1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/geane-moraes-ramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div>
+  
+  
