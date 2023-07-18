@@ -15,7 +15,7 @@ I'm currently learning:
   <img src="https://skillicons.dev/icons?i=css"/>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
   <img src="https://skillicons.dev/icons?i=js"/>
-   <a href="figma.com">
+   <a href="https://figma.com">
   <img src="https://skillicons.dev/icons?i=figma"/>
    <a href="https://code.visualstudio.com/">
   <img src="https://skillicons.dev/icons?i=vscode"/>
