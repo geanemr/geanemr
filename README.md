@@ -23,6 +23,8 @@ I'm currently learning:
   <img src="https://skillicons.dev/icons?i=jest"/>
    <a href="https://nodejs.org/en">
   <img src="https://skillicons.dev/icons?i=nodejs"/>
+   <a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react"/>
 </div>
   
 ##
