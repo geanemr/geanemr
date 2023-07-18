@@ -15,10 +15,16 @@ I'm currently learning:
   <img src="https://skillicons.dev/icons?i=css"/>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
   <img src="https://skillicons.dev/icons?i=js"/>
+   <a href="figma.com">
+  <img src="https://skillicons.dev/icons?i=figma"/>
+   <a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode"/>
   <a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git"/>
   <a href="https://github.com/">
   <img src="https://skillicons.dev/icons?i=github"/>
+   <a href="https://firebase.google.com/">
+  <img src="https://skillicons.dev/icons?i=firebase"/>  
   <a href="https://jestjs.io/pt-BR/">
   <img src="https://skillicons.dev/icons?i=jest"/>
    <a href="https://nodejs.org/en">
