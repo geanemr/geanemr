@@ -3,6 +3,7 @@
 I'm Geane!
 
 - 🧑‍🎓 I hold a Bachelor's degree in Business Administration;
+- 👩‍💻 I'm a System Analisys and Development student;
 - 💻 I’m currently studying Front-End Web Development at Laboratória Brasil Bootcamp.
 ##
 
