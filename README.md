@@ -3,11 +3,12 @@
 I'm Geane!
 
 - 🧑‍🎓 I hold a Bachelor's degree in Business Administration;
+- ⚡ I am a web development intern at Voltz;
 - 👩‍💻 I am a student of System Analysis and Development at Estácio;
-- 💻 I am also currently studying Front-End Web Development at Laboratória Brasil Bootcamp.
+- 💻 I studied Front-End Web Development at Laboratória Brasil Bootcamp.
 ##
 
-I'm currently learning:
+Technologies and tools:
 
 <div style="display: inline_block"><br>
    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
