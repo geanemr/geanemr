@@ -35,6 +35,8 @@ Technologies and tools:
   <img src="https://skillicons.dev/icons?i=typescript"/>
    <a href="https://angular.io/">
   <img src="https://skillicons.dev/icons?i=angular"/>
+   <a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react"/>
 </div>
   
 ##
