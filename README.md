@@ -38,6 +38,10 @@ Technologies and tools:
    <a href="https://react.dev/">
   <img src="https://skillicons.dev/icons?i=react"/>
 </div>
+      
+##
+      
+   ![Geane's GitHub stats](https://github-readme-stats.vercel.app/api?username=geanemr&show_icons=true&theme=radical)
   
 ##
 Reach me:
