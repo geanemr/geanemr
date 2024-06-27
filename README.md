@@ -15,28 +15,20 @@ Technologies and tools:
   <img src="https://skillicons.dev/icons?i=html"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://skillicons.dev/icons?i=css"/>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-  <img src="https://skillicons.dev/icons?i=js"/>
    <a href="https://figma.com">
   <img src="https://skillicons.dev/icons?i=figma"/>
-   <a href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode"/>
-  <a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git"/>
-  <a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github"/>
-   <a href="https://firebase.google.com/">
-  <img src="https://skillicons.dev/icons?i=firebase"/>  
-  <a href="https://jestjs.io/pt-BR/">
-  <img src="https://skillicons.dev/icons?i=jest"/>
-   <a href="https://nodejs.org/en">
-  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+  <img src="https://skillicons.dev/icons?i=js"/>
    <a href="https://www.typescriptlang.org/">
   <img src="https://skillicons.dev/icons?i=typescript"/>
-   <a href="https://angular.io/">
-  <img src="https://skillicons.dev/icons?i=angular"/>
    <a href="https://react.dev/">
   <img src="https://skillicons.dev/icons?i=react"/>
+   <a href="https://nextjs.org/">
+  <img src="https://skillicons.dev/icons?i=nextjs"/>
+  <a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <a href="https://jestjs.io/pt-BR/">
+  <img src="https://skillicons.dev/icons?i=jest"/>
 </div>
       
 ##
