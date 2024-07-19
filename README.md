@@ -17,14 +17,14 @@ Technologies and tools:
   <img src="https://skillicons.dev/icons?i=css"/>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
   <img src="https://skillicons.dev/icons?i=js"/>
-   <a href="https://figma.com">
-  <img src="https://skillicons.dev/icons?i=figma"/>
    <a href="https://www.typescriptlang.org/">
   <img src="https://skillicons.dev/icons?i=typescript"/>
    <a href="https://react.dev/">
   <img src="https://skillicons.dev/icons?i=react"/>
    <a href="https://nextjs.org/">
   <img src="https://skillicons.dev/icons?i=nextjs"/>
+   <a href="https://figma.com">
+  <img src="https://skillicons.dev/icons?i=figma"/>
   <a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git"/>
   <a href="https://jestjs.io/pt-BR/">
