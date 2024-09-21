@@ -33,16 +33,16 @@ I'm Geane, passionate about creating engaging web applications and always eager 
 </div>
 
 
-## 📊 GitHub Stats
+## 📈 My GitHub Overview
 
 ![Geane's GitHub stats](https://github-readme-stats.vercel.app/api?username=geanemr&show_icons=true&theme=radical)
 
-## 🔝 Most Used Languages
+##
 
 ![Geane's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geanemr&layout=compact&langs_count=7&theme=radical)
 
 
-## 🏆 My Recent GitHub Activity
+## 
 
 ![Geane's GitHub Streak](https://streak-stats.demolab.com?user=geanemr&theme=radical)
 
