@@ -5,7 +5,7 @@ I'm Geane, passionate about creating engaging web applications and always eager 
 - 🧑‍🎓 Bachelor's in Business Administration
 - ⚡ Web development intern at Voltz
 - 👩‍💻 Studying System Analysis and Development at Estácio
-- 💻 Graduated in Front-End Web Development at Laboratória Brasil Bootcamp
+- 💻 Completed the Front-End Web Development Bootcamp at Laboratória Brasil.
 
 ## 🛠️ Technologies and Tools
 
