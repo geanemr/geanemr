@@ -19,7 +19,6 @@ I'm Geane, passionate about creating engaging web applications and always eager 
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40" height="40" alt="Next.js"/>
 </div>
 
-
 ### Testing
 <div style="display: inline_block">
   <img src="https://cdn.simpleicons.org/jest/C21325" width="40" height="40" alt="Jest"/>
@@ -32,6 +31,18 @@ I'm Geane, passionate about creating engaging web applications and always eager 
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma"/>
 </div>
 
+## 🚀 I am learning
+
+### Back-End
+<div style="display: inline_block">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+</div>
+
+### Databases
+<div style="display: inline_block">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB"/>
+</div>
 
 ## 📈 My GitHub Overview
 
