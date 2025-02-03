@@ -16,6 +16,9 @@ I'm Geane, passionate about creating engaging web applications and always eager 
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React"/>
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/styledcomponents/DB7093" width="40" height="40" alt="Styled-components"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind"/>
+  <img src="https://cdn.simpleicons.org/graphql/E10098" width="40" height="40" alt="Graphql"/>
 </div>
 
 ### Testing
