@@ -5,7 +5,7 @@ I'm Geane, passionate about creating engaging web applications and always eager 
 - 🎓 Bachelor's in Business Administration
 - 👩‍💻 Studying System Analysis and Development at Estácio
 - 💻 Completed the Front-End Web Development Bootcamp at Laboratória Brasil
-- 🛠️ Working as a Software Developer at Trindtech
+- 💼 Working as a Software Developer at Trindtech
 
 ## 🛠️ Technologies and Tools
 
