@@ -2,9 +2,10 @@
 
 I'm Geane, passionate about creating engaging web applications and always eager to learn new technologies.
 
-- 🧑‍🎓 Bachelor's in Business Administration
+- 🎓 Bachelor's in Business Administration
 - 👩‍💻 Studying System Analysis and Development at Estácio
-- 💻 Completed the Front-End Web Development Bootcamp at Laboratória Brasil.
+- 💻 Completed the Front-End Web Development Bootcamp at Laboratória Brasil
+- 🛠️ Working as a Software Developer at Trindtech
 
 ## 🛠️ Technologies and Tools
 
@@ -32,19 +33,6 @@ I'm Geane, passionate about creating engaging web applications and always eager 
 <div style="display: inline_block">
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="Figma"/>
-</div>
-
-## 🚀 I am learning
-
-### Back-End
-<div style="display: inline_block">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-</div>
-
-### Databases
-<div style="display: inline_block">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB"/>
 </div>
 
 ## 📈 My GitHub Overview
