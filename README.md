@@ -14,7 +14,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 **Bachelor's** in Business Administration
-- 🎓 **Associate Degree** in System Analysis and Development at Estácio
+- 🎓 **Associate Degree** in System Analysis and Development
 - 🚀 Completed the **Front-End Web Development Bootcamp** at Laboratória Brasil
 - 💼 Working as a **Software Developer** at Trindtech
 - 🌱 Always learning and improving my skills
